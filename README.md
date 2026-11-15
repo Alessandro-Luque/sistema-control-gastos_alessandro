@@ -2,7 +2,7 @@
 
 Aplicación web para registrar gastos personales y generar reportes por rango de fechas. Está desarrollada con **Python, Flask, SQLite, HTML y CSS**.
 
-## Capturas de la aplicación
+## Capturas
 
 ### Acceso al sistema
 ![Pantalla de acceso](capturas/login.png)
