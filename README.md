@@ -1,7 +1,22 @@
+# UNIVERSIDAD PRIVADA DE TRUJILLO
+![Pantalla de acceso](capturas/login.png)
+CARRERA:
+INGENIERÍA DE SISTEMAS E INTELIGENCIA ARTIFICIAL
+# SEMESTRE:
+VII
+# TEMA:
+DISEÑO Y SIMULACIÓN DE AUTÓMATAS UTILIZANDO JFLAP
+# CURSO:
+LENGUAJE, PENSAMIENTO Y COGNICIÓN VISUAL
+# DOCENTE:
+Dr. DIAZ PULIDO, José Arturo
+# ESTUDIANTE: 
+LUQUE QUISPE, Alessandro Anthony
+
+
 # Sistema de Control de Gastos
 
 Aplicación web para registrar gastos personales y generar reportes por rango de fechas. Está desarrollada con **Python, Flask, SQLite, HTML y CSS**.
-
 ## Capturas
 
 ### Acceso al sistema
